@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andrie/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a23f887be054f1997dca03873506263fa634c547.jar" />
+    </item>
+    <item
+        jar="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/pre-dexed/debug/classes-f8cf2a03251eddfd109b80af389dc772af9d4471.jar" />
+    </item>
+    <item
+        jar="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/pre-dexed/debug/classes-5a67fb36bf5245c9f5ca5f11ad1084d38010070a.jar" />
+    </item>
+    <item
+        jar="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-00f70d75432ee42b7353de42e66d3c5449396f4c.jar" />
+    </item>
+    <item
+        jar="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/andrie/AndroidStudioProjects/RN/app/build/intermediates/pre-dexed/debug/classes-8dc9bbdb944f70cfd14e16b2ab3aae5e1322b395.jar" />
+    </item>
+
+</items>
